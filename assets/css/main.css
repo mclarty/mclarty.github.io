@@ -532,7 +532,7 @@ button,
 /* Main */
 #main {
   position: relative;
-  max-width: 100%;
+  max-width: 800px;
   min-width: 27em;
   padding: 4.5em 3em 3em 3em ;
   background: #ffffff;
