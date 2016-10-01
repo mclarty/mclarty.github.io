@@ -30,5 +30,8 @@ social:
   - service: "Medium"
     fa_class: "fa-medium"
     url: "https://medium.com/@nickmclarty"
+  - service: "GPG"
+    fa_class: "fa-key"
+    url: "https://gist.github.com/mclarty/e15fdf6c9f25a58fac0c70c8fb04c08a"
 sass:
   style: compact
