@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/mclarty
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nick.mclarty.me
+  * I am mclarty (https://keybase.io/mclarty) on keybase.
+  * I have a public key with fingerprint 9F91 A775 2FE9 2AA4 0F70  F1C1 6E4F 0188 81D4 48C3
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01017558dfc8d31626f9a0b6c2288692089a6a1470c94f481c97684043cbc505ad900a",
+            "fingerprint": "9f91a7752fe92aa40f70f1c16e4f018881d448c3",
+            "host": "keybase.io",
+            "key_id": "6e4f018881d448c3",
+            "kid": "01017558dfc8d31626f9a0b6c2288692089a6a1470c94f481c97684043cbc505ad900a",
+            "uid": "d0887b03c8386a095860e60cd728a619",
+            "username": "mclarty"
+        },
+        "service": {
+            "hostname": "nick.mclarty.me",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1481765501,
+    "expire_in": 157680000,
+    "prev": "3bb884f6199e6f03ca0302187f54e0366acc45f733f009f68106e081e751b87e",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.61
+Comment: https://keybase.io/crypto
+
+yMInAnicrZJbbA1BGMdP3aJNqFA8SVj0QY5jZi+zM4cQbcSJIkpcgjqZnZ09XW13
+j9091YOS4qFFTyQuIUQQlyJpIk14cElLW6FImvKiISEaKeFBWhEvzDb15tG8TOab
+3/ef///LdE4aGynIayPl3Se/zOnK6+k4m4lsKf9ev1cyXDMrxfdKVXxk49Um94Nk
+lW1KcQlAAHVNw6bFsKlAJCOLUGAgJssYIyIDTCiiUNUBI6qlYsiIjrAKVIUZTAMa
+NQkAVIpKlu2kuJf2bCcQssQikOq6JlucyJSqwNKBBRlEXLUAxBhDU1UxU0RjpeuH
+HcKcQX0es11RE4fkiL1/8P/Zd2ZEzgQY6wZQGFYwooBoGAGOADN1GVMESQj63HNo
+DRd0DaumXpCV6qOSKNbajIdzDYOMAo7NqmKjVExUolLacwOXudXisjII0n48bA6y
+6ZDezY3kqE7SsB1TTFJ01HLPt11HikNBssAOhaEIoiNNAzAq8bq07fGkHRKayAbE
+Ct/htUJSMQyMVUs4JxxZIhcFCpAh1i1N5UBBiDKmapauKBYAxEIYAsQBhlzXoIH1
+0LHPdzmuFCfCJk0JSd9OOTTIeFyqf9S+fVwkryAyYfyY8IdFCvKn/P13FYcmRk5N
+n1U2Z1zRcK4g1TFcvL7s27Xe65fP5Pd46xrfyfffn/4xL/9Sqm0afNByc3bHvpl3
+unEmQW6W71x1/x47Qga3Pc7iA7GtSxtuXXygfehb3verNFE39eWSTcteDHW2pWaV
+ZPuHHq/tulJYc2Ko5Y2T6Fm7+dWTpudVzYObnxdGDtU13hgoGrh7YmV3a+vX4U/n
+avsWwYrC/uiY0idXAWrf+nH10eay3Ifb2vpELNek78jduvA5sfDH03m/9zfvcfct
+OF5a9OJ1ccnxK/HWRf4Kpalo4xAeO7mi/WFjyduD/RMH64p7NjSc/7lp8bPMw8jA
+fKmkuWHu6zczjq3paGnIO5xb3Iv+AFggPcM=
+=/pRn
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mclarty
+
+==================================================================
