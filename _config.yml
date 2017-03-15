@@ -32,6 +32,6 @@ social:
     url: "https://medium.com/@nickmclarty"
   - service: "GPG"
     fa_class: "fa-key"
-    url: "https://gist.github.com/mclarty/e15fdf6c9f25a58fac0c70c8fb04c08a"
+    url: "https://keybase.io/mclarty"
 sass:
   style: compact
