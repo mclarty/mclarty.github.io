@@ -43,6 +43,11 @@
 								{% endfor %}
 							</ul>
 						</footer>
+						<div class="h-card">
+							{% for attribute in site.h-card %}
+							<p class="{{ attribute[0] }}">{{ attribute[1] }}</p>
+							{% endfor %}
+						</div>
 					</section>
 
 				<!-- Footer -->
