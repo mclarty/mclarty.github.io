@@ -45,6 +45,8 @@
 						</footer>
 						<div class="h-card">
 							<a rel="me" class="u-url" href="{{ site.github.url }}">{{ site.title }}</a>
+							<a rel="me" class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+							<img class="u-photo" src="{{ site.profile_photo_url }}" />
 							{% for attribute in site.h-card %}
 							<p class="{{ attribute[0] }}">{{ attribute[1] }}</p>
 							{% endfor %}
