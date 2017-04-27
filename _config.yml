@@ -33,5 +33,16 @@ social:
   - service: "GPG"
     fa_class: "fa-key"
     url: "https://keybase.io/mclarty"
+h-card:
+  p-name: "Nicholas McLarty"
+  p-honorific-prefix: "Mr."
+  p-given-name: "Nicholas"
+  p-family-name: "McLarty"
+  p-honorific-suffix: "CISSP"
+  p-nickname: "Nick"
+  p-locality: "College Station"
+  p-region: "Texas"
+  p-country-name: "US"
+  p-sex: "M"
 sass:
   style: compact
