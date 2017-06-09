@@ -14,34 +14,15 @@
 			<div id="wrapper">
 
 				<!-- Main -->
-					<section id="main">
+					<section id="page">
 						<header>
 							<span class="avatar"><img src="/images/avatar.jpg" alt="" /></span>
 							<h1>{{ site.title }}</h1>
 							<p>{{ site.subtitle }}</p>
 						</header>
 						<hr />
-						<ul class="actions">
-							{% for attribute in site.attributes %}
-							<li>{{ attribute.attribute }}.</li>
-							{% endfor %}
-						</ul>
-						<hr />
-						<footer>
-							<ul class="icons">
-								{% for link in site.social %}
-								<li><a href="{{ link.url }}" class="{{ link.fa_class }}" target="_blank" rel="me">{{ link.service }}</a></li>
-								{% endfor %}
-							</ul>
-						</footer>
-						<div class="h-card">
-							<a rel="me" class="u-url" href="{{ site.github.url }}">{{ site.title }}</a>
-							<a rel="me" class="u-email" href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a>
-							<img class="u-photo" src="{{ site.profile_photo_url }}" />
-							{% for attribute in site.h-card %}
-							<p class="{{ attribute[0] }}">{{ attribute[1] }}</p>
-							{% endfor %}
-						</div>
+						<h2>{{ page.title }}</h2>
+						{{ page.content }}
 					</section>
 
 				<!-- Footer -->
