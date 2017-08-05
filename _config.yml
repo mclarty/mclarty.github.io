@@ -48,3 +48,4 @@ h-card:
   p-sex: "M"
 sass:
   style: compact
+ga_key: "UA-104126534-1"
