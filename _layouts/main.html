@@ -26,7 +26,7 @@
 						<footer>
 							<ul class="icons">
 								{% for link in site.social %}
-								<li><a href="{{ link.url }}" class="{{ link.fa_class }}" {% if link.target %} target="{{ link.target }}" {% endif %} rel="me">{{ link.service }}</a></li>
+								<li><a href="{{ link.url }}" class="{{ link.fa_class }}" {% if link.target %} target="{{ link.target }}" {% endif %} rel="me" title="{{ link.service }}">{{ link.service }}</a></li>
 								{% endfor %}
 							</ul>
 						</footer>
