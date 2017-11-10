@@ -2,7 +2,7 @@
 layout: post
 title: "Combatting Cyber Social Engineering in the Digital Era"
 date: 2017-09-15 12:00:00 -0500
-categories: cyber social engineering
+tags: cyber social engineering
 comments: true
 ---
 
