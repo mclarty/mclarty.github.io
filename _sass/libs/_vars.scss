@@ -23,8 +23,10 @@
 	$font: (
 		family:				('Source Sans Pro', Helvetica, sans-serif),
 		family-fixed:	('Courier New', monospace),
+		family-body:  ('Helvetica Neue', Arial, sans-serif),
 
-		weight:				400
+		weight:				400,
+		weight-body:	300
 	);
 
 // Palette.

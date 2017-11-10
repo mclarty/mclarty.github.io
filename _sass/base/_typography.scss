@@ -124,3 +124,9 @@
 	header, #main, #footer {
 		text-transform: uppercase;
 	}
+
+	section#page article p {
+		font-family: _font(family-body);
+		font-weight: _font(weight-body);
+		letter-spacing: 1px;
+	}
