@@ -25,8 +25,8 @@
 						<hr />
 						<footer>
 							<ul class="icons">
-								{% for link in site.social %}
-								<li><a href="{{ link.url }}" class="{{ link.fa_class }}" {% if link.target %} target="{{ link.target }}" {% endif %} rel="me" title="{{ link.service }}">{{ link.service }}</a></li>
+								{% for link in site.data.social %}
+								<li><a href="{{ link.url }}" {% if link.target %}target="{{ link.target }}"{% endif %} rel="me" title="{{ link.service }}"><i class="{{ link.fa_class }}"></i></a></li>
 								{% endfor %}
 							</ul>
 						</footer>
@@ -34,7 +34,7 @@
 							<a rel="me" class="u-url" href="{{ site.github.url }}">{{ site.title }}</a>
 							<a rel="me" class="u-email" href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a>
 							<img class="u-photo" src="{{ site.profile_photo_url }}" />
-							{% for attribute in site.h-card %}
+							{% for attribute in site.data.h-card %}
 							<p class="{{ attribute[0] }}">{{ attribute[1] }}</p>
 							{% endfor %}
 						</div>

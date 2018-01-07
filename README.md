@@ -24,7 +24,7 @@ Credits:
 		Unsplash (unsplash.com)
 
 	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+		Font Awesome (fontawesome.com)
 
 	Other:
 		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
