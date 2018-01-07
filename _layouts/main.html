@@ -18,7 +18,7 @@
             {% include header.html %}
             <hr />
             <ul class="actions">
-              {% for attribute in site.attributes %}
+              {% for attribute in site.data.attributes %}
               <li>{{ attribute.attribute }}.</li>
               {% endfor %}
             </ul>

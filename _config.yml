@@ -2,17 +2,6 @@ title: "Nick McLarty"
 contact_email: "nick@inick.net"
 profile_photo_url: "https://nick.mclarty.me/images/avatar.jpg"
 subtitle: "Information Security Officer in College Station, Texas"
-attributes:
-  - attribute: "Information Security Officer"
-  - attribute: "Cybersecurity Consultant"
-  - attribute: "Husband and Father"
-  - attribute: "WordPress + Genesis Developer"
-  - attribute: "Node.JS Dabbler"
-  - attribute: "Starbucks Supporter"
-  - attribute: "IPv6 Promoter"
-  - attribute: "Pilot"
-  - attribute: "Aggie"
-  - attribute: "Texan"
 sass:
   style: compact
 ga_key: "UA-104126534-1"
