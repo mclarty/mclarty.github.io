@@ -24,7 +24,7 @@
 		header {
 			text-align: center;
 		}
-		
+
 		@include vendor('transform-origin', '50% 50%');
 		@include vendor('transform', 'rotateX(0deg)');
 		@include vendor('transition', (
@@ -75,3 +75,14 @@
 			@include vendor('transform', 'rotateX(15deg)');
 		}
 	}
+
+	.blog_home {
+		ul {
+			list-style: none;
+		}
+
+		article a {
+			font-size: 1.2em;
+		}
+
+  }
