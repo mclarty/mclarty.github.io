@@ -27,5 +27,5 @@
   url: "https://keybase.io/mclarty"
   target: "_blank"
 - service: "Blog"
-  fa_class: "far fa-bookmark"
-  url: "/blog"
+  fa_class: "far fa-blogger"
+  url: "https://blog.nick.mclarty.me"
