@@ -125,8 +125,20 @@
 		text-transform: uppercase;
 	}
 
+	#blog {
+		text-transform: none;
+	}
+
+	section#page article {
+		letter-spacing: 1px;
+	}
+
+	section#page article h1 {
+		font-weight: bolder;
+		font-size: 1.3em;
+	}
+
 	section#page article p {
 		font-family: _font(family-body);
 		font-weight: _font(weight-body);
-		letter-spacing: 1px;
 	}

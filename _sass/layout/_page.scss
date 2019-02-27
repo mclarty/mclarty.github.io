@@ -10,6 +10,16 @@
 
 /* Page */
 
+	article {
+		p {
+			img[alt=Thumbnail-Left] {
+				height: 250px;
+				float: left;
+				padding: 0 10px 0 0;
+			}
+		}
+	}
+
 	#page {
 		position: relative;
 		max-width: 800px;
@@ -84,5 +94,4 @@
 		article a {
 			font-size: 1.2em;
 		}
-
-  }
+	}

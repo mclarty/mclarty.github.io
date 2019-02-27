@@ -2,6 +2,8 @@ title: "Nick McLarty"
 contact_email: "nick@inick.net"
 profile_photo_url: "https://nick.mclarty.me/images/avatar.jpg"
 subtitle: "Chief Information Security Officer in College Station, Texas"
+plugins:
+  - jekyll-feed
 sass:
   style: compact
 ga_key: "UA-104126534-1"

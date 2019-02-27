@@ -71,4 +71,32 @@
 			opacity: 0;
 			@include vendor('transform', 'rotateX(15deg)');
 		}
+
+		#blog {
+			ul {
+				list-style-type: none;
+				text-align: left;
+			}
+
+			li {
+				a {
+					font-size: 1.3em;
+					font-weight: bolder;
+				}
+
+				p {
+					letter-spacing: 1pt;
+					line-height: 1.5;
+					text-align: justify;
+				}
+
+				img[alt=Thumbnail-Left] {
+					height: 100px;
+					padding: 0 0 0 25px;
+					float: right;
+				}
+					
+			}
+
+		}
 	}

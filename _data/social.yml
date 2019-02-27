@@ -28,5 +28,5 @@
   target: "_blank"
 - service: "Blog"
   fa_class: "fab fa-blogger"
-  url: "https://blog.nick.mclarty.me"
+  url: "/blog"
   target: "_blank"
