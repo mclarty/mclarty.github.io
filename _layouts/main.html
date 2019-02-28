@@ -30,7 +30,12 @@
           <li>
             <a href="{{ post.url }}">{{ post.title }}</a>
             <h3>{{ post.date | date: "%-d %B %Y" }}</h3>
-            <p>{{ post.excerpt }}</p>
+            <p>
+		{% if post.thumbnail %}
+		  <img class="thumbnail" src="{{ post.thumbnail }}" />
+		{% endif %}
+		{{ post.excerpt }}
+	    </p>
             <div style="clear: both;"></div>
           </li>
           {% endfor %}

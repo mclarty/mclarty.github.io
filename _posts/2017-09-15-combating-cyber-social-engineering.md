@@ -5,6 +5,7 @@ author: Nick McLarty
 date: 2017-09-15 12:00:00 -0500
 tags: cyber social engineering
 comments: true
+thumbnail: /assets/png/cybercrime.png
 excerpt: >
   Efforts made to reduce or eliminate the threat of social engineering have not been effective in addressing the lack of security awareness exhibited by users of cyber resources.  Success combating social engineering attacks requires a new approach of user education and improvements to anti-social engineering technology.  This study incorporates existing research with surveys designed to identify trends of online Internet behavior and defensive posture from social engineering attacks.
 ---
