@@ -71,28 +71,28 @@ descriptions:
 #     share: true                           # Include in the "Share" section of posts
 social:
   - name: Twitter
-    icon: twitter
+    icon: fab fa-twitter
     username: nmclarty
     url: https://twitter.com/nmclarty
     desc: Follow me on Twitter
     share: true
 
   - name: Facebook
-    icon: facebook
+    icon: fab fa-facebook
     username: nick.mclarty
     url: https://www.facebook.com/nick.mclarty
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
-    icon: github
+    icon: fab fa-github
     username: mclarty
     url: https://github.com/mclarty
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
-    icon: linkedin
+    icon: fab fa-linkedin
     username: nickmclarty
     url: https://www.linkedin.com/in/nickmclarty
     desc: Connect with me on LinkedIn

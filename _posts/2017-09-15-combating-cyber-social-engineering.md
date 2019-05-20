@@ -3,7 +3,7 @@ layout: post
 title: Combating Cyber Social Engineering in the Digital Age
 author: Nick McLarty
 date: 2017-09-15 12:00:00 -0500
-categories: Cybersecurity
+tags: cyber social engineering
 comments: true
 thumbnail: /assets/png/cybercrime.png
 excerpt: >

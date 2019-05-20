@@ -3,7 +3,7 @@ layout: post
 title: Moving to Jekyll
 author: Nick McLarty
 date: 2019-02-27 17:37:00
-categories: Jekyll
+tags: jekyll blog
 comments: true
 thumbnail: /assets/png/blog.png
 ---
