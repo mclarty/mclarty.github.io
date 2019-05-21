@@ -14,7 +14,8 @@ subtitle: 'Cybersecurity Executive in College Station, Texas'
 email: nick@mclarty.me
 name: Nick McLarty
 description: >
-  Written by Nick McLarty who lives and works in College Station building useful things.
+  Written by Nick McLarty who lives and works in College Station building useful things for fun in his spare time.
+
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -163,10 +164,10 @@ social:
 
   - name: Reddit
     icon: reddit-alien
-    username: mclarty
-    url: https://www.reddit.com/user/mclarty
+    username:
+    url:
     desc: Share to Reddit
-    share: true
+    share: false
 
   - name: "Hacker News"
     icon: hacker-news
@@ -180,6 +181,17 @@ social:
     username: mclarty
     url: https://keybase.io/mclarty
     desc: Follow me on Keybase
+
+# Personal traits
+traits:
+  - Cybersecurity Professional
+  - Husband and Father
+  - Node.JS Dabbler
+  - Starbucks Supporter
+  - IPv6 Promoter
+  - Pilot
+  - Aggie
+  - Texan
 
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter

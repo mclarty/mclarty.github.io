@@ -373,9 +373,9 @@ pre code.hljs {
 
 	}
 	/*
-	*	Site Navigation (left)
+	*	Site About (left)
 	*/
-	.site-navigation {
+	.site-about {
 		@include span-columns(12);
 		@include media ($mobile) {
 			@include span-columns(6);
@@ -386,6 +386,9 @@ pre code.hljs {
 		font-size: 0.9em;
 		ul {
 			@extend %default-ul;
+			li p {
+				margin-block-end: 0em;
+			}
 		}
 	}
 	/*
@@ -411,6 +414,10 @@ pre code.hljs {
 		ul {
 			@extend %default-ul;
 		}
+		.social-media-list li {
+			display: inline;
+			font-size: 3em;
+		}
 	}
 	/*
 	*	Site Description/Signature (right)
@@ -428,9 +435,4 @@ pre code.hljs {
 			text-decoration: underline;
 		}
 	}
-}
-
-.social-media-list li {
-	display: inline;
-	font-size: 2em;
 }
