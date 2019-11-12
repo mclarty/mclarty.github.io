@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Nick.README
+main_nav: false
 ---
 
 # What is this?
