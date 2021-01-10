@@ -75,10 +75,10 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: nmclarty
-    url: https://twitter.com/nmclarty
+    username: 
+    url: 
     desc: Follow me on Twitter
-    share: true
+    share: false
 
   - name: Facebook
     icon: facebook-f
@@ -166,10 +166,10 @@ social:
 
   - name: Reddit
     icon: reddit-alien
-    username:
-    url:
+    username: mclarty
+    url: https://www.reddit.com/user/mclarty
     desc: Share to Reddit
-    share: false
+    share: true
 
   - name: "Hacker News"
     icon: hacker-news
@@ -177,12 +177,6 @@ social:
     url:
     desc: Share to Hacker News
     share: false
-
-  - name: "Keybase"
-    icon: keybase
-    username: mclarty
-    url: https://keybase.io/mclarty
-    desc: Follow me on Keybase
 
 # Personal traits
 traits:
